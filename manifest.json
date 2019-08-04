@@ -1,0 +1,8 @@
+{
+  "domain": "doorman",
+  "name": "Yale Doorman",
+  "documentation": "https://github.com/espenfjo/homeassistant-doorman",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
