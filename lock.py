@@ -19,7 +19,7 @@ PLATFORM_SCHEMA = PLATFORM_SCHEMA.extend({
 BASE_URL = 'https://mob.yalehomesystem.co.uk/yapi'
 API_LOGIN_URL = BASE_URL + '/o/token/'
 API_STATE_URL = BASE_URL + '/api/panel/cycle/'
-SCAN_INTERVAL=timedelta(seconds=5)
+SCAN_INTERVAL=timedelta(seconds=10)
 
 
 def login(username, password, initial_token):
