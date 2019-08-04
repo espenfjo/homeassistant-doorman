@@ -12,7 +12,7 @@ Tested with the V2N lock.
 
 ## Installation
 
-Place the ´custom_components` folder in your Home Assistant configuration folder.
+Place the `custom_components` folder in your Home Assistant configuration folder.
 
 See https://developers.home-assistant.io/docs/en/creating_component_loading.html for more information
 
